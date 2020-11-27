@@ -1,6 +1,5 @@
-
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://nadermu:nader147@cluster0.hicvk.mongodb.net/lions', {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect('mongodb+srv://nadermu:a3wesdxc@cluster0.hicvk.mongodb.net/lions', {useNewUrlParser: true, useUnifiedTopology: true});
 
 
 const db = mongoose.connection;

@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "5fb2cb3294daf608d0944a52"
+  },
+  "role": "regular",
+  "date_time": {
+    "$date": "2020-11-16T18:55:38.618Z"
+  },
+  "email": "koko@walla.com",
+  "pass": "$2b$10$z.aivXUo34cLlH1bhn2c0uOFaplqm0SHi1Bjh3/8e3Mj5SLl7KAma",
+  "__v": 0
+}]
